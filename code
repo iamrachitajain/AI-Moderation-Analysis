@@ -1,0 +1,5 @@
+- prompts/
+   - harmful_prompts.txt
+   - sensitive_prompts.txt
+   - creative_prompts.txt
+   - neutral_prompts.txt
