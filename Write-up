@@ -1,1 +1,4 @@
-
+                             Content Moderation on Claude 
+The basic approach to content moderation on Claude is the classification of user-generated texts into BLOCK or ALLOW. Using a detailed description of what contents in each category looks like, user-generated text can be classified. This description is used as a guideline.
+In this approach guidelines can be customized based on needs or requirements. for example, To block posts that are not related to a certain topic say football, the Block and Allow categories are updated accordingly to moderate posts. 
+Improving the performance of Content moderation on claude is also possible through a way of adding examples to the prompt. Examples of what user-generated text and what category they fall in can help improve performance especially in cases where the content rules are ambiguos or nuanced
